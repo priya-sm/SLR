@@ -1,0 +1,2 @@
+# SLR
+Simple linear regression
